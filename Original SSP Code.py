@@ -39,7 +39,7 @@ class SSP():
 
 
 instance = SSP()
-instance.random_yes_instance(10000)
+instance.random_yes_instance(10)
 print( instance )
 
 instance.try_at_random()
